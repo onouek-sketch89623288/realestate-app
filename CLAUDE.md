@@ -81,6 +81,11 @@ git push origin main
 - `.env` ファイルを読んだり変更したりしない
 - `rm -rf` コマンドは実行しない
 
+## デプロイ情報
+
+- 本番URL：https://realestate-app-two-jet.vercel.app
+- Supabaseプロジェクト名：realestate-app
+
 ## GitHubリポジトリ
 
 https://github.com/onouek-sketch89623288/realestate-app
