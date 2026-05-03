@@ -1,0 +1,15 @@
+# 依存パッケージ
+node_modules/
+
+# ビルド成果物
+dist/
+
+# 環境変数（機密情報を含むため必ずGitから除外）
+.env
+.env.local
+.env.*.local
+
+# エディタ・OS
+.DS_Store
+.vscode/
+*.log
